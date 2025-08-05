@@ -18,7 +18,7 @@
 - 🔭 I specialize in **React, Node.js, Django, and Full-Stack Development**  
 - 🌱 Currently exploring **AI in Web Development**
 - 💡 Passionate about **building intuitive and scalable applications**
-- 🏆 **6+ Hackathon Wins | 4+ Finalist Mentions**
+- 🏆 **7+ Hackathon Wins | 4+ Finalist Mentions**
 - 👨‍💻 Check out my portfolio: [🚀 My Portfolio](https://reactportfolio-e0t6.onrender.com/)
 
 ---
