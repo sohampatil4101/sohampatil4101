@@ -32,11 +32,13 @@
 
 ### 📬 Connect with Me:
 <p align="center">
+  <a href="https://reactportfolio-e0t6.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-87CEEB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/soham-patil-32734a245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/20721989/soham-ramchandra-patil" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://leetcode.com/u/soham4101/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://codepen.io/soham4101" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </p>
+
 
 ---
 
