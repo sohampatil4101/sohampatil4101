@@ -71,7 +71,7 @@
 
 ---
 
-## ✨ Fun Animation Zone  
+## ✨ Stats  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=onestar&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
