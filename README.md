@@ -18,7 +18,7 @@
 - 🌱 Exploring **AI + Web Development**  
 - 💡 Passionate about **intuitive & scalable apps**  
 - 🏆 **7+ Hackathon Wins | 4+ Finalist Mentions**  
-- 👨‍💻 Portfolio → [🚀 Soham's Portfolio](https://reactportfolio-e0t6.onrender.com/)  
+- 👨‍💻 Portfolio → [🚀Portfolio](https://reactportfolio-e0t6.onrender.com/)  
 
 ---
 
