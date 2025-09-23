@@ -14,7 +14,7 @@
 
 ## 💡 About Me  
 ✨ Turning **ideas into impactful products** with clean design & code.  
-- 🔭 Skilled in **React, Node.js, Django & Full-Stack Development**  
+- 🔭 Skilled in **Nextjs, React, Node.js, Django & Full-Stack Development**  
 - 🌱 Exploring **AI + Web Development**  
 - 💡 Passionate about **intuitive & scalable apps**  
 - 🏆 **7+ Hackathon Wins | 4+ Finalist Mentions**  
