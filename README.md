@@ -43,29 +43,17 @@
 ## 📊 GitHub Stats  
 <div align="center">
 
-<!-- Total Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohampatil4101&theme=tokyonight" alt="Total Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohampatil4101&theme=tokyonight" />
 
-<!-- Contributions, PRs, Issues -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohampatil4101&theme=tokyonight" height="165px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohampatil4101&theme=tokyonight&utcOffset=5.5" height="165px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohampatil4101&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohampatil4101&theme=tokyonight&utcOffset=5.5" height="165" />
 
-<!-- Stats & Streak (with private commits) -->
-<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohampatil4101&theme=tokyonight&hide_border=true&count_private=true" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-<!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohampatil4101&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165px"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohampatil4101&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165" />
 
 </div>
+
 
 ---
 
