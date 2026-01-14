@@ -1,36 +1,26 @@
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Soham+Patil;Full-Stack+Developer;Hackathon+Winner+🏆;Building+Impactful+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Patil;Full-Stack+Developer;Hackathon+Winner+🏆" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-🚀 Full-Stack Developer | UI/UX Enthusiast | 7+ Hackathon Winner
-</h3>
+<!-- Subtitle -->
+<h3 align="center">🚀 Full-Stack Developer | UI/UX Enthusiast | 7+ Hackathon Winner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohampatil4101&label=Profile%20Views&color=00F0FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sohampatil4101&label=Profile%20views&color=00F0FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 💡 About Me
-✨ Turning **ideas into impactful, scalable products** with clean design & engineering.
-
-- 🔭 Full-Stack: **Next.js, React, Node.js, Django**
-- 🌱 Exploring **AI × Web Engineering**
-- 🎨 Strong focus on **UI/UX + DX**
-- 🏆 **7+ Hackathon Wins | 4+ Finalist Mentions**
-- 👨‍💻 Portfolio → [🚀 View Portfolio](https://reactportfolio-e0t6.onrender.com/)
+## 💡 About Me  
+✨ Turning **ideas into impactful products** with clean design & code.  
+- 🔭 Skilled in **Nextjs, React, Node.js, Django & Full-Stack Development**  
+- 🌱 Exploring **AI + Web Development**  
+- 💡 Passionate about **intuitive & scalable apps**  
+- 🏆 **7+ Hackathon Wins | 4+ Finalist Mentions**  
+- 👨‍💻 Portfolio → [🚀Portfolio](https://reactportfolio-e0t6.onrender.com/)  
 
 ---
-
-## 🧠 Developer Mindset
-
-✔ Product-first thinking
-✔ Clean architecture > quick hacks
-✔ Performance & scalability matter
-✔ Design is not optional
-✔ Build fast. Refactor smarter.
 
 ## ⚡ Tech Stack & Tools  
 <p align="center">
