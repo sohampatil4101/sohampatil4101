@@ -40,17 +40,35 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats  
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohampatil4101&theme=tokyonight" />
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohampatil4101&theme=tokyonight" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohampatil4101&theme=tokyonight&utcOffset=5.5" height="165" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165" />
+<br/>
+
+<div align="center">
+
+<!-- Streak Stats (More Stable) -->
+<img src="https://streak-stats.demolab.com?user=sohampatil4101&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Trophy (Stable) -->
+<img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
