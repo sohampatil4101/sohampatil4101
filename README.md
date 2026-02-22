@@ -46,11 +46,18 @@
 
 <div align="center">
 
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<!-- Main GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" />
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=sohampatil4101&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+
+<br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170" />
 
 </div>
 
@@ -58,20 +65,12 @@
 
 <div align="center">
 
-<!-- Streak Stats (More Stable) -->
-<img src="https://streak-stats.demolab.com?user=sohampatil4101&theme=tokyonight&hide_border=true" height="170"/>
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<!-- Trophy (Stable) -->
-<img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
+---
 
 ---
 
