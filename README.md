@@ -40,57 +40,31 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
 
-<!-- Main GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" />
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170"/>
 
 <br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=sohampatil4101&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+<!-- Streak Stats (Replaced & Stable) -->
+<img src="https://streak-stats.demolab.com?user=sohampatil4101&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" height="170"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-  
-[![Soham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohampatil4101&theme=react-dark&hide_border=true&bg_color=0D1117&line=00F0FF&point=1E90FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 
 ---
 
 ## ✨ Stats  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=onestar&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
