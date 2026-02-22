@@ -3,69 +3,67 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Patil;Full-Stack+Developer;Hackathon+Winner+🏆" alt="Typing SVG" />
 </h1>
 
-<!-- Subtitle -->
 <h3 align="center">🚀 Full-Stack Developer | UI/UX Enthusiast | 7+ Hackathon Winner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohampatil4101&label=Profile%20views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sohampatil4101&label=Profile%20views&color=00F0FF&style=flat-square" />
 </p>
 
 ---
 
 ## 💡 About Me  
 ✨ Turning **ideas into impactful products** with clean design & code.  
+
 - 🔭 Skilled in **Nextjs, React, Node.js, Django & Full-Stack Development**  
 - 🌱 Exploring **AI + Web Development**  
-- 💡 Passionate about **intuitive & scalable apps**  
 - 🏆 **7+ Hackathon Wins | 4+ Finalist Mentions**  
 - 👨‍💻 Portfolio → [🚀Portfolio](https://reactportfolio-e0t6.onrender.com/)  
 
 ---
 
-## ⚡ Tech Stack & Tools  
+## ⚡ Tech Stack  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,django,mongodb,mysql,postgres,docker,git,figma,tailwind" />
 </p>
 
 ---
 
-## 📬 Connect with Me  
+## 📬 Connect With Me  
+
 <p align="center">
-  <a href="https://reactportfolio-e0t6.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀 Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/soham-patil-32734a245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/20721989/soham-ramchandra-patil" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/soham4101/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://codepen.io/soham4101" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+  <a href="https://reactportfolio-e0t6.onrender.com"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/soham-patil-32734a245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/soham4101/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" />
 
-<br/>
-
-<!-- Streak Stats (Replaced & Stable) -->
-<img src="https://streak-stats.demolab.com?user=sohampatil4101&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-
-<br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 
 </div>
 
----
+<br/>
 
-## ✨ Stats  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
+<img height="170" src="https://streak-stats.demolab.com?user=sohampatil4101&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
 
 ---
 
