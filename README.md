@@ -41,10 +41,6 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -54,12 +50,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-
-</div>
 
 ---
 
