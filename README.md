@@ -1,6 +1,6 @@
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Patil;Full-Stack+Developer;Hackathon+Winner+🏆" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Patil;Full-Stack+Developer;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Full-Stack Developer | UI/UX Enthusiast | 7+ Hackathon Winner</h3>
