@@ -17,6 +17,18 @@
 
 ---
 
+## Quick Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-00C2FF?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Web%20Apps-0EA5E9?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Hackathons-7%2B%20Wins-22C55E?style=flat-square" alt="Hackathons" />
+  <img src="https://img.shields.io/badge/Finalist-4%2B%20Mentions-F59E0B?style=flat-square" alt="Finalist" />
+  <img src="https://img.shields.io/badge/Now-Building%20AI%20%2B%20Web-6366F1?style=flat-square" alt="Now Building" />
+</p>
+
+---
+
 ## About Me
 Turning **ideas into impactful products** with clean design and code.
 
@@ -38,6 +50,15 @@ Turning **ideas into impactful products** with clean design and code.
 
 ---
 
+## What I Build
+
+- End-to-end web products from concept to deployment
+- Dashboards and internal tools with clean UX and analytics-first design
+- API-driven platforms with secure auth, role-based flows, and integrations
+- AI-assisted product features for productivity and decision support
+
+---
+
 ## Tech Stack
 
 <p align="center">
@@ -46,6 +67,15 @@ Turning **ideas into impactful products** with clean design and code.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,mongodb,mysql,postgres,docker,git,github&perline=10" alt="Backend and DevOps Stack" />
 </p>
+
+---
+
+## Engineering Approach
+
+- Product-first thinking: align technical choices with business impact
+- Performance-aware development: fast UI, optimized APIs, clean state flow
+- Maintainable code: modular architecture, reusable components, clear conventions
+- Collaboration-focused delivery: rapid iteration, feedback loops, and documentation
 
 ---
 
@@ -70,6 +100,14 @@ Turning **ideas into impactful products** with clean design and code.
 
 ---
 
+## Current Focus
+
+- Building impactful full-stack products with modern UI systems
+- Integrating AI workflows into web applications
+- Improving speed, reliability, and developer experience across projects
+
+---
+
 ## Connect With Me
 
 <p align="center">
@@ -81,4 +119,4 @@ Turning **ideas into impactful products** with clean design and code.
 ---
 
 ## Collaboration
-**Let's collaborate and build amazing things together.**
+If you are building something meaningful and need a strong full-stack + product mindset, I would love to collaborate.
