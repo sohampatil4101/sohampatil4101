@@ -43,7 +43,10 @@ Turning **ideas into impactful products** with clean design and code.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,django,mongodb,mysql,postgres,docker,git,figma,tailwind" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,figma&perline=10" alt="Frontend and Design Stack" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,mongodb,mysql,postgres,docker,git,github&perline=10" alt="Backend and DevOps Stack" />
 </p>
 
 ---
