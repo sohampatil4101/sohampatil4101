@@ -29,14 +29,12 @@ Turning **ideas into impactful products** with clean design and code.
 
 ## Highlights
 
-| Area | Details |
-| --- | --- |
-| Primary Focus | Full-Stack Product Development |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS |
-| Backend | Node.js, Express, Django |
-| Databases | MongoDB, MySQL, PostgreSQL |
-| Design | UI/UX, Figma, rapid prototyping |
-| Competitive Edge | 7+ Hackathon wins, 4+ finalist mentions |
+- **Primary Focus:** Full-Stack Product Development
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, Django
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Design:** UI/UX, Figma, rapid prototyping
+- **Competitive Edge:** 7+ hackathon wins, 4+ finalist mentions
 
 ---
 
