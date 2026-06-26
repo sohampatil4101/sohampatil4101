@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://patilsoham.com/"><img src="https://img.shields.io/badge/Portfolio-Live-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://patilsoham.com/?source=GithubReadme"><img src="https://img.shields.io/badge/Portfolio-Live-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sohampatil4101/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/soham4101/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
@@ -35,7 +35,7 @@ Turning **ideas into impactful products** with clean design and code.
 - Skilled in **Next.js, React, Node.js, Django, and Full-Stack Development**
 - Exploring **AI + Web Development**
 - **7+ Hackathon Wins | 4+ Finalist Mentions**
-- Portfolio -> [patilsoham.com](https://patilsoham.com/)
+- Portfolio -> [patilsoham.com](https://patilsoham.com/?source=GithubReadme)
 
 ---
 
@@ -111,7 +111,7 @@ Turning **ideas into impactful products** with clean design and code.
 ## Connect With Me
 
 <p align="center">
-  <a href="https://patilsoham.com/">Portfolio</a> |
+  <a href="https://patilsoham.com/?source=GithubReadme">Portfolio</a> |
   <a href="https://www.linkedin.com/in/sohampatil4101/">LinkedIn</a> |
   <a href="https://leetcode.com/u/soham4101/">LeetCode</a>
 </p>
