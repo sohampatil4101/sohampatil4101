@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6366F1&height=220&section=header&text=Soham%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%207%2B%20Hackathon%20Winner&descAlignY=58&descSize=20" alt="header banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6366F1,100:A855F7&height=230&section=header&text=Soham%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%207%2B%20Hackathon%20Winner&descAlignY=58&descSize=20" alt="header banner" />
 </p>
 
 <!-- Typing Tagline -->
@@ -65,12 +65,71 @@ Turning <b>ideas into impactful products</b> with clean design and code.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+<b><a href="https://github.com/sohampatil4101/VoloMart-Django">🛒 VoloMart</a></b><br/>
+<img src="https://img.shields.io/github/languages/top/sohampatil4101/VoloMart-Django?style=flat-square&color=6366F1" alt="top language" /><br/>
+Django e-commerce marketplace application.
+</td>
+<td width="33%" valign="top">
+<b><a href="https://github.com/sohampatil4101/RoomBuddies-django">🏠 RoomBuddies</a></b><br/>
+<img src="https://img.shields.io/github/languages/top/sohampatil4101/RoomBuddies-django?style=flat-square&color=00C2FF" alt="top language" /><br/>
+Django room-sharing / roommate-finder platform.
+</td>
+<td width="33%" valign="top">
+<b><a href="https://github.com/sohampatil4101/Bus-Tracking-MERN-">🚌 TransitGo</a></b><br/>
+<img src="https://img.shields.io/github/languages/top/sohampatil4101/Bus-Tracking-MERN-?style=flat-square&color=22C55E" alt="top language" /><br/>
+Real-time bus & train tracking, built on the MERN stack.
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<b><a href="https://github.com/sohampatil4101/Jarvis">🤖 Jarvis</a></b><br/>
+<img src="https://img.shields.io/github/languages/top/sohampatil4101/Jarvis?style=flat-square&color=F59E0B" alt="top language" /><br/>
+Python-based voice assistant.
+</td>
+<td width="33%" valign="top">
+<b><a href="https://github.com/sohampatil4101/NotemakingApp_MERN">📝 Note Making App</a></b><br/>
+<img src="https://img.shields.io/github/languages/top/sohampatil4101/NotemakingApp_MERN?style=flat-square&color=A855F7" alt="top language" /><br/>
+Notes app built with the MERN stack.
+</td>
+<td width="33%" valign="top">
+<b><a href="https://github.com/sohampatil4101/WarehouseManagementSystem-Django">📦 Warehouse Manager</a></b><br/>
+<img src="https://img.shields.io/github/languages/top/sohampatil4101/WarehouseManagementSystem-Django?style=flat-square&color=EF4444" alt="top language" /><br/>
+Django warehouse management system.
+</td>
+</tr>
+</table>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ## 🛠️ What I Build
 
-- 🌍 End-to-end web products from concept to deployment
-- 📊 Dashboards and internal tools with clean UX and analytics-first design
-- 🔐 API-driven platforms with secure auth, role-based flows, and integrations
-- 🧠 AI-assisted product features for productivity and decision support
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>🌍 End-to-End Products</h4>
+From concept to deployment — full ownership of the build, not just the code.
+</td>
+<td width="50%" valign="top">
+<h4>📊 Dashboards & Internal Tools</h4>
+Clean UX and analytics-first design for tools people actually use daily.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🔐 API-Driven Platforms</h4>
+Secure auth, role-based flows, and third-party integrations done right.
+</td>
+<td width="50%" valign="top">
+<h4>🧠 AI-Assisted Features</h4>
+Productivity and decision-support tooling powered by AI.
+</td>
+</tr>
+</table>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -102,6 +161,16 @@ Turning <b>ideas into impactful products</b> with clean design and code.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohampatil4101/sohampatil4101/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohampatil4101/sohampatil4101/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sohampatil4101/sohampatil4101/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -130,4 +199,4 @@ Turning <b>ideas into impactful products</b> with clean design and code.
 
 ### 🔥 If you are building something meaningful and need a strong full-stack + product mindset, I would love to collaborate!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:00C2FF&height=100&section=footer" alt="footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:00C2FF&height=110&section=footer" alt="footer banner" />
