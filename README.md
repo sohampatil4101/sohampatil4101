@@ -54,14 +54,14 @@ Turning <b>ideas into impactful products</b> with clean design and code.
 
 ## ⚡ Highlights
 
-| | |
-|---|---|
-| 🎯 **Primary Focus** | Full-Stack Product Development |
-| 🎨 **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| ⚙️ **Backend** | Node.js, Express, Django |
-| 🗄️ **Databases** | MongoDB, MySQL, PostgreSQL |
-| 🖌️ **Design** | UI/UX, Figma, rapid prototyping |
-| 🏅 **Competitive Edge** | 7+ hackathon wins, 4+ finalist mentions |
+<table align="center" width="100%">
+<tr><td width="30%">🎯 <b>Primary Focus</b></td><td>Full-Stack Product Development</td></tr>
+<tr><td width="30%">🎨 <b>Frontend</b></td><td>React, Next.js, TypeScript, Tailwind CSS</td></tr>
+<tr><td width="30%">⚙️ <b>Backend</b></td><td>Node.js, Express, Django</td></tr>
+<tr><td width="30%">🗄️ <b>Databases</b></td><td>MongoDB, MySQL, PostgreSQL</td></tr>
+<tr><td width="30%">🖌️ <b>Design</b></td><td>UI/UX, Figma, rapid prototyping</td></tr>
+<tr><td width="30%">🏅 <b>Competitive Edge</b></td><td>7+ hackathon wins, 4+ finalist mentions</td></tr>
+</table>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
