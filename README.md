@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sohampatil4101&label=Profile%20views&color=00F0FF&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/sohampatil4101?label=Followers&style=flat-square&color=00C2FF" alt="GitHub followers" />
 </p>
 
 <p align="center">
@@ -79,23 +80,10 @@ Turning **ideas into impactful products** with clean design and code.
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sohampatil4101&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatil4101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## GitHub Streak
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=sohampatil4101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohampatil4101&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohampatil4101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
