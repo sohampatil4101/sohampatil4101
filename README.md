@@ -112,7 +112,7 @@ Django warehouse management system.
 <tr>
 <td width="50%" valign="top">
 <h4>🌍 End-to-End Products</h4>
-From concept to deployment — full ownership of the build, not just the code.
+From concept to deployment full ownership of the build, not just the code.
 </td>
 <td width="50%" valign="top">
 <h4>📊 Dashboards & Internal Tools</h4>
