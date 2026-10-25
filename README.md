@@ -1,8 +1,3 @@
-<!-- ─────────────────────────────────────────────────────────────────────────────
-     SOHAM PATIL • GITHUB PROFILE
-     A midnight developer-console theme built with GitHub-safe Markdown + HTML
-────────────────────────────────────────────────────────────────────────────── -->
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:020617,35:0F172A,70:312E81,100:0891B2&amp;height=260&amp;section=header&amp;text=Soham%20Patil&amp;fontSize=64&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;stroke=22D3EE&amp;strokeWidth=1&amp;animation=fadeIn&amp;desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20AI%20EXPLORER&amp;descAlignY=62&amp;descSize=17" alt="Soham Patil — Full-Stack Developer" />
 </p>
