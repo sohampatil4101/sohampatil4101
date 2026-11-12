@@ -14,7 +14,7 @@
   <a href="https://patilsoham.com/?source=GithubReadme">Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/sohampatil4101/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://leetcode.com/u/soham4101/">LeetCode</a> &nbsp;|&nbsp;
-  <a href="mailto:patilsoham390@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=patilsoham390%40gmail.com">Email</a>
 </p>
 
 <p align="center">
