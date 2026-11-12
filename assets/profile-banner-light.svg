@@ -21,14 +21,20 @@
   <path d="M815 260c63-99 130-119 208-105 67 12 118 54 177 32" fill="none" stroke="#8A6940" stroke-opacity="0.13" stroke-width="1"/>
   <circle cx="1012" cy="117" r="103" fill="none" stroke="url(#accent)" stroke-opacity="0.68" stroke-width="1.5"/>
   <circle cx="1012" cy="117" r="78" fill="none" stroke="#45413A" stroke-opacity="0.18" stroke-width="1" stroke-dasharray="2 8"/>
-  <circle cx="1086" cy="63" r="6" fill="#8A6940"/>
+  <circle cx="1012" cy="117" r="70" fill="#8A6940" opacity="0.025">
+    <animate attributeName="opacity" values="0.02;0.055;0.02" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <circle cx="1012" cy="14" r="5" fill="#8A6940"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 1012 117" to="360 1012 117" dur="36s" repeatCount="indefinite"/>
+  </g>
   <circle cx="933" cy="161" r="3" fill="#A98751" opacity="0.8"/>
   <path d="M1012 14v25M1012 195v25M909 117h25M1090 117h25" stroke="#8A6940" stroke-opacity="0.46" stroke-width="1"/>
   <rect x="72" y="58" width="36" height="2" rx="1" fill="url(#accent)"/>
-  <text x="121" y="65" fill="#806037" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3.2">SOHAM PATIL</text>
-  <text x="72" y="132" fill="#20201E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="650" letter-spacing="-1.7">Thoughtful digital products.</text>
-  <text x="74" y="171" fill="#59564F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400">Full-stack engineering, with a product-minded approach.</text>
+  <text x="121" y="65" fill="#806037" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3.2">SOHAM PATIL</text>
+  <text x="72" y="132" fill="#20201E" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.7">Thoughtful digital products.</text>
+  <text x="74" y="171" fill="#59564F" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400">Full-stack engineering, with a product-minded approach.</text>
   <rect x="74" y="204" width="8" height="8" rx="4" fill="#8A6940"/>
-  <text x="92" y="212" fill="#59564F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="500" letter-spacing="1.4">MUMBAI, INDIA</text>
-  <text x="1127" y="226" fill="#806037" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="500" letter-spacing="2">BUILD · SHIP · REFINE</text>
+  <text x="92" y="212" fill="#59564F" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="500" letter-spacing="1.4">MUMBAI, INDIA</text>
+  <text x="1127" y="226" fill="#806037" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="500" letter-spacing="2">BUILD · SHIP · REFINE</text>
 </svg>

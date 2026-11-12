@@ -2,8 +2,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg" />
-    <img src="./assets/profile-banner-dark.svg" width="100%" alt="Soham Patil — full-stack developer and product builder" />
+    <img src="./assets/profile-banner-dark.svg" width="100%" alt="Soham Patil, full-stack developer and product builder" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&amp;size=22&amp;color=B38A55&amp;center=true&amp;vCenter=true&amp;duration=2800&amp;pause=900&amp;width=820&amp;height=44&amp;letterSpacing=0.2&amp;lines=Building+thoughtful+digital+products;Full-stack+engineering+with+a+product+mindset;Exploring+AI+%2B+web+development" alt="Animated introduction: building thoughtful digital products, full-stack engineering, and AI web development" />
 </p>
 
 <p align="center">
@@ -21,7 +25,7 @@
 
 ## About
 
-I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjoy taking a product from the first sketch to production—pairing thoughtful design with reliable engineering.
+I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjoy taking a product from the first sketch to production, pairing thoughtful design with reliable engineering.
 
 **7+ hackathon wins** &nbsp;·&nbsp; **4+ finalist mentions** &nbsp;·&nbsp; **Always learning, always building**
 
