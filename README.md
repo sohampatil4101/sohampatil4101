@@ -72,14 +72,15 @@ I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjo
 
 <p align="center"><a href="https://patilsoham.com/?source=GithubReadme"><strong>Explore more projects and live demos on my portfolio</strong>&nbsp;<img src="./assets/external-link.svg" width="14" height="14" alt="" /></a></p>
 
-## What I work with
+## Engineering toolkit
 
-| Area | Tools |
+| Discipline | Focus |
 |:--|:--|
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express, Django, Python |
-| **Data** | MongoDB, MySQL, PostgreSQL |
-| **Design & tools** | UI/UX, Figma, Docker, Git, GitHub, VS Code, Postman, Vercel |
+| **Architecture** | System design, API design, modular architecture, performance, reliability |
+| **Frontend engineering** | TypeScript, React, Next.js, Redux for state management |
+| **Backend engineering** | Node.js, Express, Django, Python, REST API design |
+| **Data** | MongoDB, PostgreSQL, MySQL |
+| **Platform and delivery** | Docker, Git, GitHub, Vercel |
 
 ## What I’m focused on
 
