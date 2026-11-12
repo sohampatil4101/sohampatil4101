@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
   <title id="title">Soham Patil</title>
-  <desc id="description">Full-stack developer creating thoughtful digital products.</desc>
+  <desc id="description">Full-stack developer building web applications with React, Node.js, and Django.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#151719"/>
@@ -48,9 +48,9 @@
   <circle cx="933" cy="161" r="3" fill="#D6B77A" opacity="0.72"/>
   <path d="M1012 14v25M1012 195v25M909 117h25M1090 117h25" stroke="#D6B77A" stroke-opacity="0.42" stroke-width="1"/>
   <text x="80" y="65" fill="#D6B77A" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3.2">SOHAM PATIL</text>
-  <text x="80" y="132" fill="#F5F2EB" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.7">Thoughtful digital products.</text>
-  <text x="82" y="171" fill="#C5C6C7" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400">Full-stack engineering, with a product-minded approach.</text>
+  <text x="80" y="132" fill="#F5F2EB" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.7">Full-stack developer</text>
+  <text x="82" y="171" fill="#C5C6C7" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400">React, Next.js, Node.js, Django, and REST APIs</text>
   <rect x="82" y="204" width="8" height="8" rx="4" fill="#D6B77A"/>
   <text x="100" y="212" fill="#D1D1D0" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="500" letter-spacing="1.4">MUMBAI, INDIA</text>
-  <text x="980" y="226" fill="#D6B77A" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="500" letter-spacing="1.6">BUILD / SHIP / REFINE</text>
+  <text x="980" y="226" fill="#D6B77A" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="500" letter-spacing="1.6">7+ HACKATHON WINS</text>
 </svg>

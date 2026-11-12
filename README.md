@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&amp;size=22&amp;color=B38A55&amp;center=true&amp;vCenter=true&amp;duration=2800&amp;pause=900&amp;width=820&amp;height=44&amp;letterSpacing=0.2&amp;lines=Building+thoughtful+digital+products;Full-stack+engineering+with+a+product+mindset;Exploring+AI+%2B+web+development" alt="Animated introduction: building thoughtful digital products, full-stack engineering, and AI web development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&amp;size=22&amp;color=B38A55&amp;center=true&amp;vCenter=true&amp;duration=2800&amp;pause=900&amp;width=820&amp;height=44&amp;letterSpacing=0.2&amp;lines=Shipping+full-stack+apps+with+React+and+Next.js;Building+Node.js+and+Django+APIs;Applying+AI+to+healthcare+and+web+workflows" alt="Animated focus: React, Next.js, Node.js, Django, and applied AI" />
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 ## About
 
-I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjoy taking a product from the first sketch to production, pairing thoughtful design with reliable engineering.
+I’m a full-stack developer based in Mumbai, India. I build web applications across the stack, from React and Next.js interfaces to Node.js and Django services, REST APIs, and database-backed workflows. My projects cover local commerce, housing, transit, productivity, and warehouse operations.
 
-**7+ hackathon wins** &nbsp;|&nbsp; **4+ finalist mentions** &nbsp;|&nbsp; **Always learning, always building**
+**7+ hackathon wins** &nbsp;|&nbsp; **4+ finalist mentions**
 
 ## Selected work
 
@@ -35,42 +35,50 @@ I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjo
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/VoloMart-Django">VoloMart</a></h3>
-      <p>A Django marketplace built to help local vendors reach more customers.</p>
+      <p>A Django marketplace for local vendors and locally made products.</p>
       <sub>DJANGO &nbsp;|&nbsp; E-COMMERCE</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/RoomBuddies-django">RoomBuddies</a></h3>
-      <p>A room-sharing platform that helps people find a place and a roommate.</p>
+      <p>A Django platform for room listings and roommate matching.</p>
       <sub>DJANGO &nbsp;|&nbsp; HOUSING</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/Bus-Tracking-MERN-">TransitGo</a></h3>
-      <p>Real-time bus and train tracking, built for everyday journeys.</p>
+      <p>A MERN app for tracking buses and trains in real time.</p>
       <sub>MERN &nbsp;|&nbsp; MOBILITY</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/Jarvis">Jarvis</a></h3>
-      <p>A Python-based voice assistant.</p>
+      <p>A Python voice assistant for hands-free interaction.</p>
       <sub>PYTHON &nbsp;|&nbsp; VOICE</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/NotemakingApp_MERN">Note Making App</a></h3>
-      <p>A simple notes and productivity app built with the MERN stack.</p>
+      <p>A MERN application for creating and managing notes.</p>
       <sub>MERN &nbsp;|&nbsp; PRODUCTIVITY</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/WarehouseManagementSystem-Django">Warehouse Manager</a></h3>
-      <p>A Django system for managing warehouse operations and inventory.</p>
+      <p>A Django system for inventory tracking and warehouse operations.</p>
       <sub>DJANGO &nbsp;|&nbsp; OPERATIONS</sub>
     </td>
   </tr>
 </table>
 
 <p align="center"><a href="https://patilsoham.com/?source=GithubReadme"><strong>Explore more projects and live demos on my portfolio</strong>&nbsp;<img src="./assets/external-link.svg" width="14" height="14" alt="" /></a></p>
+
+## Recognition
+
+| Event | Result | Project |
+|:--|:--|:--|
+| **KRIYETA 3.0** | Winner | AI healthcare assistant for chronic patient support |
+| **VNPS-24** | 1st place, National-Level Project Showcase | Telehealth access for rural communities |
+| **LogiThon** | Finalist | Warehouse inventory and space optimization |
 
 ## Engineering toolkit
 
@@ -84,9 +92,9 @@ I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjo
 
 ## What I’m focused on
 
-- Building full-stack products with thoughtful, modern interfaces
-- Bringing useful AI workflows into web applications
-- Improving performance, reliability, and the developer experience
+- Shipping web applications with React, Next.js, Node.js, and Django
+- Designing REST APIs and data models for product workflows
+- Applying AI to healthcare and web applications
 
 ## Activity
 
@@ -107,6 +115,6 @@ I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjo
 </p>
 
 <p align="center">
-  <strong>Good ideas deserve thoughtful engineering.</strong><br/>
-  <a href="https://patilsoham.com/?source=GithubReadme">Let’s build something meaningful</a>&nbsp;<img src="./assets/external-link.svg" width="14" height="14" alt="" />
+  <strong>Project demos, work history, and contact details:</strong><br/>
+  <a href="https://patilsoham.com/?source=GithubReadme">Visit my portfolio</a>&nbsp;<img src="./assets/external-link.svg" width="14" height="14" alt="" />
 </p>
