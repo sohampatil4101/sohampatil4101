@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://patilsoham.com/?source=GithubReadme">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/sohampatil4101/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/soham4101/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://patilsoham.com/?source=GithubReadme">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/sohampatil4101/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com/u/soham4101/">LeetCode</a> &nbsp;|&nbsp;
   <a href="mailto:patilsoham390@gmail.com">Email</a>
 </p>
 
@@ -27,7 +27,7 @@
 
 I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjoy taking a product from the first sketch to production, pairing thoughtful design with reliable engineering.
 
-**7+ hackathon wins** &nbsp;·&nbsp; **4+ finalist mentions** &nbsp;·&nbsp; **Always learning, always building**
+**7+ hackathon wins** &nbsp;|&nbsp; **4+ finalist mentions** &nbsp;|&nbsp; **Always learning, always building**
 
 ## Selected work
 
@@ -36,50 +36,50 @@ I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjo
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/VoloMart-Django">VoloMart</a></h3>
       <p>A Django marketplace built to help local vendors reach more customers.</p>
-      <sub>DJANGO &nbsp;·&nbsp; E-COMMERCE</sub>
+      <sub>DJANGO &nbsp;|&nbsp; E-COMMERCE</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/RoomBuddies-django">RoomBuddies</a></h3>
       <p>A room-sharing platform that helps people find a place and a roommate.</p>
-      <sub>DJANGO &nbsp;·&nbsp; HOUSING</sub>
+      <sub>DJANGO &nbsp;|&nbsp; HOUSING</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/Bus-Tracking-MERN-">TransitGo</a></h3>
       <p>Real-time bus and train tracking, built for everyday journeys.</p>
-      <sub>MERN &nbsp;·&nbsp; MOBILITY</sub>
+      <sub>MERN &nbsp;|&nbsp; MOBILITY</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/Jarvis">Jarvis</a></h3>
       <p>A Python-based voice assistant.</p>
-      <sub>PYTHON &nbsp;·&nbsp; VOICE</sub>
+      <sub>PYTHON &nbsp;|&nbsp; VOICE</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/NotemakingApp_MERN">Note Making App</a></h3>
       <p>A simple notes and productivity app built with the MERN stack.</p>
-      <sub>MERN &nbsp;·&nbsp; PRODUCTIVITY</sub>
+      <sub>MERN &nbsp;|&nbsp; PRODUCTIVITY</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohampatil4101/WarehouseManagementSystem-Django">Warehouse Manager</a></h3>
       <p>A Django system for managing warehouse operations and inventory.</p>
-      <sub>DJANGO &nbsp;·&nbsp; OPERATIONS</sub>
+      <sub>DJANGO &nbsp;|&nbsp; OPERATIONS</sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://patilsoham.com/?source=GithubReadme"><strong>Explore more projects and live demos on my portfolio&nbsp; ↗</strong></a></p>
+<p align="center"><a href="https://patilsoham.com/?source=GithubReadme"><strong>Explore more projects and live demos on my portfolio</strong>&nbsp;<img src="./assets/external-link.svg" width="14" height="14" alt="" /></a></p>
 
 ## What I work with
 
 | Area | Tools |
 |:--|:--|
-| **Frontend** | HTML · CSS · JavaScript · TypeScript · React · Next.js · Redux · Tailwind CSS · Bootstrap |
-| **Backend** | Node.js · Express · Django · Python |
-| **Data** | MongoDB · MySQL · PostgreSQL |
-| **Design & tools** | UI/UX · Figma · Docker · Git · GitHub · VS Code · Postman · Vercel |
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express, Django, Python |
+| **Data** | MongoDB, MySQL, PostgreSQL |
+| **Design & tools** | UI/UX, Figma, Docker, Git, GitHub, VS Code, Postman, Vercel |
 
 ## What I’m focused on
 
@@ -107,5 +107,5 @@ I’m a full-stack developer and UI/UX enthusiast based in Mumbai, India. I enjo
 
 <p align="center">
   <strong>Good ideas deserve thoughtful engineering.</strong><br/>
-  <a href="https://patilsoham.com/?source=GithubReadme">Let’s build something meaningful&nbsp; ↗</a>
+  <a href="https://patilsoham.com/?source=GithubReadme">Let’s build something meaningful</a>&nbsp;<img src="./assets/external-link.svg" width="14" height="14" alt="" />
 </p>
